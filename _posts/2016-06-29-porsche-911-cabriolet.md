@@ -1,5 +1,6 @@
 ---
 title: Porsche 911 Cabriolet
+gruppe: Porsche
 beskrivelse: En af Porsches klasikkere med en bred appeal.
 foerstegangsydelse: "145.000 kr. "
 maanedlig_ydelse: "7.300 kr. "
@@ -30,7 +31,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-06-29 
+date: 2016-06-29T00:00:00.000Z
 layout: post
 ---
 
