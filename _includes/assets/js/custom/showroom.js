@@ -9,6 +9,14 @@ $(function(){
 		//console.log(parseTemplate(car));
 		
 		objModel.html(parseTemplate(car));
+        
+        $('#ctaForm').submit(function(event){
+			event.preventDefault();
+			$.post( "thank-you", $( "#contactForm" ).serialize(), function(data){
+				$('#ctaForm').addClass("hideform");
+				$('#ctaFormTak').addClass("showtak");
+			} );
+		});
 		
 		objModel.find('.item[style="background-image: url();"]').remove();
 		
@@ -70,6 +78,14 @@ $(function(){
 			//console.log(parseTemplate(car));
 			
 			objModel.html(parseTemplate(car));
+            $('#ctaForm').submit(function(event){
+                event.preventDefault();
+                $.post( "thank-you", $( "#contactForm" ).serialize(), function(data){
+                    $('#ctaForm').addClass("hideform");
+                    $('#ctaFormTak').addClass("showtak");
+                } );
+            });
+            
 			
 			objModel.find('.item[style="background-image: url();"]').remove();
 			
