@@ -12,7 +12,12 @@ $(function(){
         
         $('#ctaForm').submit(function(event){
 			event.preventDefault();
-			$.post( "/thank-you", $( "#ctaForm" ).serialize(), function(data){
+            // set values on global form
+            $('#rcname').val($('#cname').val());
+            $('#rcemail').val($('#cemail').val())
+            $('#rcphone').val($('#cphone').val())
+            
+			$.post( "/thank-you", $( "#rctaForm" ).serialize(), function(data){
 				$('#ctaForm').addClass("hideform");
 				$('#ctaFormTak').addClass("showtak");
 			} );
@@ -80,7 +85,12 @@ $(function(){
 			objModel.html(parseTemplate(car));
             $('#ctaForm').submit(function(event){
                 event.preventDefault();
-                $.post( "/thank-you", $( "#ctaForm" ).serialize(), function(data){
+                // set values on global form
+                $('#rcname').val($('#cname').val());
+                $('#rcemail').val($('#cemail').val())
+                $('#rcphone').val($('#cphone').val())
+                
+                $.post( "/thank-you", $( "#rctaForm" ).serialize(), function(data){
                     $('#ctaForm').addClass("hideform");
                     $('#ctaFormTak').addClass("showtak");
                 } );
