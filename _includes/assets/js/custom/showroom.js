@@ -12,7 +12,7 @@ $(function(){
         
         $('#ctaForm').submit(function(event){
 			event.preventDefault();
-			$.post( "thank-you", $( "#contactForm" ).serialize(), function(data){
+			$.post( "thank-you", $( "#ctaForm" ).serialize(), function(data){
 				$('#ctaForm').addClass("hideform");
 				$('#ctaFormTak').addClass("showtak");
 			} );
@@ -80,7 +80,7 @@ $(function(){
 			objModel.html(parseTemplate(car));
             $('#ctaForm').submit(function(event){
                 event.preventDefault();
-                $.post( "thank-you", $( "#contactForm" ).serialize(), function(data){
+                $.post( "thank-you", $( "#ctaForm" ).serialize(), function(data){
                     $('#ctaForm').addClass("hideform");
                     $('#ctaFormTak').addClass("showtak");
                 } );
