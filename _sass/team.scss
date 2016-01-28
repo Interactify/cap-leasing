@@ -1,4 +1,5 @@
 #team{
+    padding-bottom: 80px;
     .team-box {
         text-align: center;
         padding: 0px;
@@ -36,5 +37,16 @@
             color: #ffffff;
         }
     }
-     
+    
+    span.logo {
+        img {
+            margin: 30px 10px 0px 10px;
+            max-width: 200px;
+            max-height: 80px;
+        }
+    }
+    
+    .w600 {
+      max-width: 600px;  
+    }
 }
