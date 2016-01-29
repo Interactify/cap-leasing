@@ -14,8 +14,9 @@ $(function(){
 			event.preventDefault();
             // set values on global form
             $('#rcname').val($('#cname').val());
-            $('#rcemail').val($('#cemail').val())
-            $('#rcphone').val($('#cphone').val())
+            $('#rcemail').val($('#cemail').val());
+            $('#rcphone').val($('#cphone').val());
+            $('#rbil').val($('#cbil').val());
             
 			$.post( "/thank-you", $( "#rctaForm" ).serialize(), function(data){
 				$('#ctaForm').addClass("hideform");
@@ -87,8 +88,9 @@ $(function(){
                 event.preventDefault();
                 // set values on global form
                 $('#rcname').val($('#cname').val());
-                $('#rcemail').val($('#cemail').val())
-                $('#rcphone').val($('#cphone').val())
+                $('#rcemail').val($('#cemail').val());
+                $('#rcphone').val($('#cphone').val());
+                $('#rbil').val($('#cbil').val())
                 
                 $.post( "/thank-you", $( "#rctaForm" ).serialize(), function(data){
                     $('#ctaForm').addClass("hideform");
