@@ -1,5 +1,5 @@
 ---
-title: "Mercedes E350 Coupé  "
+title: Mercedes E350 Coupe
 beskrivelse: "AMG STYLING.\n"
 foerstegangsydelse: "50.000"
 maanedlig_ydelse: "3350"
@@ -30,7 +30,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-01-22 
+date: 2016-01-22T00:00:00.000Z
 layout: post
 ---
 
