@@ -2,21 +2,13 @@
 title: Mercedes-Benz SL 500
 beskrivelse: "Original AMG-Pakke "
 foerstegangsydelse: "45000"
-maanedlig_ydelse: "3500"
+maanedlig_ydelse: "1.900"
 restvaerdi: "135000"
 volumen: "0"
 cylindre: "8"
 antal_ventiler: "0"
-tank: "0"
-kml: "0"
-groen_ejerafgift: "0"
 gear: Aut.
 traek: Baghjulstræk
-laengde: "0"
-bredde: "0"
-hoejde: "0"
-vaegt: "0"
-paahaeng: "0"
 btype: "0"
 foerstereg: "0"
 kilometer: "230000"
@@ -38,7 +30,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-01-14 
+date: 2016-01-14T00:00:00.000Z
 layout: post
 ---
 
