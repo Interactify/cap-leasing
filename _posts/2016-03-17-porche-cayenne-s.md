@@ -1,0 +1,36 @@
+---
+title: Porche Cayenne S
+beskrivelse: "Klar til levering "
+foerstegangsydelse: "57.900"
+maanedlig_ydelse: "4.450 "
+restvaerdi: "245600"
+volumen: "0"
+cylindre: "0"
+antal_ventiler: "0"
+gear: Aut.
+traek: Firehjulstræk
+btype: 4x4
+foerstereg: Feb/2011
+kilometer: "147.000"
+braendstof: Bnezin
+farve: Sort
+doere: "5"
+effekt: "0"
+moment: "0"
+topfart: "250 "
+acc: "0"
+billede_1: /images/uploads/porche-cayenne-s/scot1.jpg
+billede_2: /images/uploads/porche-cayenne-s/scot2.jpg
+billede_3: /images/uploads/porche-cayenne-s/scot3.jpg
+billede_4: /images/uploads/porche-cayenne-s/scot4.jpg
+billede_5: /images/uploads/porche-cayenne-s/scot5.jpg
+billede_6: /images/uploads/porche-cayenne-s/scot6.jpg
+billede_7: /images/uploads/porche-cayenne-s/scot7.jpg
+billede_8: /images/uploads/porche-cayenne-s/scot10.jpg
+billede_9: /images/uploads/porche-cayenne-s/scot12.jpg
+billede_10: /images/uploads/porche-cayenne-s/scot13.jpg
+cmsUserSlug: ""
+date: 2016-03-17 
+layout: post
+---
+
