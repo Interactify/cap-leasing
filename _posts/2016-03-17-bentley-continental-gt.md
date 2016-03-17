@@ -1,9 +1,9 @@
 ---
 title: "Bentley Continental GT "
 beskrivelse: "Utolig bil men helt unik køreoplevelse. Bilen er en klassiker og er bestemt en bil du vil komme til at holde af. "
-foerstegangsydelse: 156.000 incl. moms.
-maanedlig_ydelse: "10.450 incl. moms. "
-restvaerdi: "750.000 ex. moms. "
+foerstegangsydelse: "156.000 "
+maanedlig_ydelse: "10.450 "
+restvaerdi: "750.000 "
 volumen: "V8 "
 cylindre: "8"
 antal_ventiler: "0"
@@ -30,7 +30,7 @@ billede_8: /images/uploads/d9.jpg
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-03-17 
+date: 2016-03-17T00:00:00.000Z
 layout: post
 ---
 
