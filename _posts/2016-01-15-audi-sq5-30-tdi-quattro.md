@@ -7,26 +7,18 @@ restvaerdi: "250.000"
 volumen: "3.0"
 cylindre: "0"
 antal_ventiler: "0"
-tank: "0"
-kml: "0"
-groen_ejerafgift: "0"
 gear: Aut.
 traek: "0"
-laengde: "0"
-bredde: "0"
-hoejde: "0"
-vaegt: "0"
-paahaeng: "0"
 btype: "0"
 foerstereg: "0"
 kilometer: "59.000"
 braendstof: Benzin
 farve: Sort
 doere: "5"
-effekt: "0"
-moment: "0"
+effekt: "313"
+moment: 650/1450-2800
 topfart: "250"
-acc: "0"
+acc: "5,1"
 billede_1: /images/uploads/audi-sq5-30-tdi-quattro/q5-1.jpg
 billede_2: /images/uploads/audi-sq5-30-tdi-quattro/q5-2.jpg
 billede_3: /images/uploads/audi-sq5-30-tdi-quattro/q5-3.jpg
@@ -38,7 +30,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-01-15 
+date: 2016-01-15T00:00:00.000Z
 layout: post
 ---
 
