@@ -1,6 +1,6 @@
 ---
 title: "Bentley Continental GT "
-beskrivelse: "Utolig bil men helt unik køreoplevelse. Bilen er en klassiker og er bestemt en bil du vil komme til at holde af. "
+beskrivelse: "Utolig bil med helt unik køreoplevelse. Bilen er en klassiker og er bestemt en bil du vil komme til at holde af. "
 foerstegangsydelse: "156.000 "
 maanedlig_ydelse: "10.450 "
 restvaerdi: "750.000 "
@@ -13,12 +13,12 @@ btype: Coupé
 foerstereg: 01-10-2012
 kilometer: "69.000"
 braendstof: Benzin
-farve: "Hvis "
+farve: Hvid
 doere: "2"
-effekt: "0"
-moment: "0"
-topfart: "250"
-acc: "0"
+effekt: 610 hp
+moment: 750/1750 Nm
+topfart: 326 km/h
+acc: "4,5 sec"
 billede_1: /images/uploads/d1.jpg
 billede_2: /images/uploads/d2.jpg
 billede_3: /images/uploads/d3.jpg
