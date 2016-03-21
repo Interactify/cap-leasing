@@ -1,25 +1,17 @@
 ---
 title: Audi A5 TSFI S-Line
 beskrivelse: Utrolig velholdt og klar til levering.
-foerstegangsydelse: "43000"
-maanedlig_ydelse: "2850"
+foerstegangsydelse: "43.000"
+maanedlig_ydelse: "2.850"
 restvaerdi: "140.000"
 volumen: "0"
 cylindre: "4"
 antal_ventiler: "0"
-tank: "0"
-kml: "0"
-groen_ejerafgift: "0"
 gear: Automatisk
-traek: baghjulstræk
-laengde: "0"
-bredde: "0"
-hoejde: "0"
-vaegt: "0"
-paahaeng: "0"
+traek: Baghjulstræk
 btype: Personvogn
 foerstereg: jan/2011
-kilometer: "100000"
+kilometer: "100.000"
 braendstof: Benzin
 farve: Sort metallic
 doere: "2"
