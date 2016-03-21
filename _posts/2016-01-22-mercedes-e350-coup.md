@@ -7,7 +7,7 @@ restvaerdi: "185000"
 volumen: "0"
 cylindre: "0"
 antal_ventiler: "0"
-gear: Aut
+gear: Aut.
 traek: Baghjulstræk
 btype: "Personbil "
 foerstereg: 01/2012
@@ -15,10 +15,10 @@ kilometer: "57.000"
 braendstof: "Benzin "
 farve: "0"
 doere: "3"
-effekt: "0"
-moment: "0"
+effekt: "288"
+moment: 365/3000-5100
 topfart: "250"
-acc: "6.2"
+acc: "6.3"
 billede_1: /images/uploads/ecoupe1.jpg
 billede_2: /images/uploads/ecoupe2.jpg
 billede_3: /images/uploads/ecoupe3.jpg
