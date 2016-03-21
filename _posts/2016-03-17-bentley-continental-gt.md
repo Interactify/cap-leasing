@@ -15,10 +15,10 @@ kilometer: "69.000"
 braendstof: Benzin
 farve: Hvid
 doere: "2"
-effekt: 610 hp
-moment: 750/1750 Nm
-topfart: 326 km/h
-acc: "4,5 sec"
+effekt: "610"
+moment: 750/1750
+topfart: "326"
+acc: "4,5"
 billede_1: /images/uploads/d1.jpg
 billede_2: /images/uploads/d2.jpg
 billede_3: /images/uploads/d3.jpg
