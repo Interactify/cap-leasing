@@ -15,10 +15,10 @@ kilometer: "22.600"
 braendstof: Benzin
 farve: Grå
 doere: "2"
-effekt: 700 hp
-moment: 690/5500 Nm
-topfart: 350 km/h
-acc: "2,9 sec"
+effekt: "700"
+moment: 690/5500
+topfart: "350"
+acc: "2,9"
 billede_1: /images/uploads/lamborghini-aventador-65-v12/lam1.jpg
 billede_2: /images/uploads/lamborghini-aventador-65-v12/lam2.jpg
 billede_3: /images/uploads/lamborghini-aventador-65-v12/lam3.jpg
