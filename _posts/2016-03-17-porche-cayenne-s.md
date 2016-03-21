@@ -12,7 +12,7 @@ traek: Firehjulstræk
 btype: 4x4
 foerstereg: Feb/2011
 kilometer: "147.000"
-braendstof: Bnezin
+braendstof: Benzin
 farve: Sort
 doere: "5"
 effekt: "0"
@@ -30,7 +30,7 @@ billede_8: /images/uploads/porche-cayenne-s/scot10.jpg
 billede_9: /images/uploads/porche-cayenne-s/scot12.jpg
 billede_10: /images/uploads/porche-cayenne-s/scot13.jpg
 cmsUserSlug: ""
-date: 2016-03-17 
+date: 2016-03-17T00:00:00.000Z
 layout: post
 ---
 
