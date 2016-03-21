@@ -15,10 +15,10 @@ kilometer: "147.000"
 braendstof: Benzin
 farve: Sort
 doere: "5"
-effekt: "0"
-moment: "0"
-topfart: "250 "
-acc: "0"
+effekt: "385"
+moment: 500/3500
+topfart: "252"
+acc: "6,6"
 billede_1: /images/uploads/porche-cayenne-s/scot1.jpg
 billede_2: /images/uploads/porche-cayenne-s/scot2.jpg
 billede_3: /images/uploads/porche-cayenne-s/scot3.jpg
