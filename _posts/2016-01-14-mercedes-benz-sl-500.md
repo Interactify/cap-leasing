@@ -15,7 +15,7 @@ kilometer: "230.000"
 braendstof: Benzin
 farve: Sort
 doere: "2"
-effekt: "435"
+effekt: "306"
 moment: 700/1800-3500
 topfart: "250"
 acc: "4,6"
