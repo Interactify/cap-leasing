@@ -1,7 +1,7 @@
 ---
 title: Porche Cayenne S
 beskrivelse: "Klar til levering "
-foerstegangsydelse: "57.900"
+foerstegangsydelse: "75.000"
 maanedlig_ydelse: "4.450 "
 restvaerdi: "245600"
 volumen: "0"
