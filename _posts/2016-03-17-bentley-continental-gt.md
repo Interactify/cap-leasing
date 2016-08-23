@@ -1,7 +1,7 @@
 ---
 title: "Bentley Continental GT "
 beskrivelse: "Utolig bil med helt unik køreoplevelse. Bilen er en klassiker og er bestemt en bil du vil komme til at holde af. "
-foerstegangsydelse: "156.000 "
+foerstegangsydelse: "285.000 "
 maanedlig_ydelse: "10.450 "
 restvaerdi: "750.000 "
 volumen: "V8 "
