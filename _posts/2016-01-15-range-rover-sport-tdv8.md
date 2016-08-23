@@ -1,7 +1,7 @@
 ---
 title: Range Rover Sport TDV8
 beskrivelse: Autobiography
-foerstegangsydelse: "50.000"
+foerstegangsydelse: "65.000"
 maanedlig_ydelse: "3.400"
 restvaerdi: "195.000"
 volumen: "3.6"
