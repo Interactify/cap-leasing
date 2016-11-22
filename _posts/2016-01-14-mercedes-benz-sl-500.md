@@ -1,5 +1,6 @@
 ---
 title: Mercedes-Benz SL 500
+gruppe: Mercedes
 beskrivelse: "Original AMG-Pakke "
 foerstegangsydelse: "45.000"
 maanedlig_ydelse: "1.900"
