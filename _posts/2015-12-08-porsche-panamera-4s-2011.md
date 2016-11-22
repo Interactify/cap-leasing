@@ -1,5 +1,6 @@
 ---
 title: Audi A5 TSFI S-Line
+gruppe: Audi
 beskrivelse: Utrolig velholdt og klar til levering.
 foerstegangsydelse: "43.000"
 maanedlig_ydelse: "2.850"
