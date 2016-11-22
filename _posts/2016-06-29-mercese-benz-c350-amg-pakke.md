@@ -1,5 +1,6 @@
 ---
-title: "Mercese-Benz C350 AMG Pakke "
+title: "Mercedes-Benz C350 AMG Pakke "
+gruppe: Mercedes
 beskrivelse: "En rigtig flot stationcar som også er sjov at køre i. Her er en af de biler hvor du får meget bil for få penge. "
 foerstegangsydelse: 63.000 kr.
 maanedlig_ydelse: "2.789 kr. "
@@ -30,7 +31,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-06-29 
+date: 2016-06-29T00:00:00.000Z
 layout: post
 ---
 
