@@ -71,7 +71,7 @@ $(function(){
 	// grab path
 	var hostname = document.location.origin;
 	var path = window.location.hash.substr(1);
-	if (path.length){
+	if (path.length && window.location.hash.split('/').length > 2){
 		//console.log(hostname+path);
 		//console.log(path.length)
 		var combinedPath=hostname+path;
