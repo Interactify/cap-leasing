@@ -1,5 +1,6 @@
 ---
 title: "Porsche 911 3.6 Carrera  "
+gruppe: Porsche
 beskrivelse: Klar til levering.
 foerstegangsydelse: "115.000"
 maanedlig_ydelse: "5.600"
