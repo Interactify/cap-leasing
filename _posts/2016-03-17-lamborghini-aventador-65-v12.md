@@ -1,5 +1,6 @@
 ---
 title: Lamborghini Aventador 6.5 V12
+gruppe: Lamborghini
 beskrivelse: "Kan leveres på 5 dage. "
 foerstegangsydelse: "359.000"
 maanedlig_ydelse: "14.800 "
