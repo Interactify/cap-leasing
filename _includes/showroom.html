@@ -11,7 +11,17 @@
 
     <div class="container">
         <div class="row">
-            {% for post in site.posts %}
+			{% assign sorted_pages = (site.posts | sort: 'gruppe') %}
+			{% assign gruppe = '' %}
+            {% for post in sorted_pages %}
+			{% if post.gruppe != gruppe %}
+			<div class="col-md-12">
+				<div class="category-gruppe">
+					<h3>{{post.gruppe}}</h3>
+				</div>
+			</div>
+			{% assign gruppe = post.gruppe %}
+			{% endif %}
             <div class="col-md-4">
                 <div class="car-container" data-id="car-{{forloop.index}}" data-jid="{{forloop.index}}" data-url="{{ post.url | prepend: site.baseurl }}">
                     <div class="car-image" style="background-image: url('{{ post.billede_1 }}')"></div>
