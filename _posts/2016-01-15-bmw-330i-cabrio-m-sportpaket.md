@@ -1,5 +1,6 @@
 ---
 title: BMW 330I Cabrio M-Sportpaket
+gruppe: BMW
 beskrivelse: "Yderst velholdt. "
 foerstegangsydelse: "45.000"
 maanedlig_ydelse: "3.050"
