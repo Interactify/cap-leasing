@@ -1,5 +1,6 @@
 ---
 title: Porsche Cayman S
+gruppe: Porsche
 beskrivelse: "\"Den originale Porsche oplevelse\""
 foerstegangsydelse: "67.000 "
 maanedlig_ydelse: "4.600 "
@@ -30,7 +31,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-08-23 
+date: 2016-08-23T00:00:00.000Z
 layout: post
 ---
 
