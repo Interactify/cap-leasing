@@ -1,5 +1,6 @@
 ---
 title: "Bentley Continental GT "
+gruppe: Bently
 beskrivelse: "Utolig bil med helt unik køreoplevelse. Bilen er en klassiker og er bestemt en bil du vil komme til at holde af. "
 foerstegangsydelse: "285.000 "
 maanedlig_ydelse: "10.450 "
