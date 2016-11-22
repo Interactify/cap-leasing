@@ -1,5 +1,6 @@
 ---
 title: Audi SQ5 3.0 TDI Quattro
+gruppe: Audi
 beskrivelse: "B&O"
 foerstegangsydelse: "100.000"
 maanedlig_ydelse: "5.500"
