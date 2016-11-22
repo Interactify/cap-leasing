@@ -1,5 +1,6 @@
 ---
 title: Porche Cayenne S
+gruppe: Porsche
 beskrivelse: "Klar til levering "
 foerstegangsydelse: "75.000"
 maanedlig_ydelse: "4.450 "
