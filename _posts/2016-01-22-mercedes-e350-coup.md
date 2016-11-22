@@ -1,5 +1,6 @@
 ---
 title: Mercedes E350 Coupe
+gruppe: Mercedes
 beskrivelse: "AMG STYLING.\n"
 foerstegangsydelse: "50.000"
 maanedlig_ydelse: "3350"
