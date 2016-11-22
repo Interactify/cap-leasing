@@ -1,6 +1,6 @@
 ---
 title: "Mercedes E350 sedan "
-gruppe: BMW
+gruppe: Mercedes
 beskrivelse: "En rigtig køremaskine med den helt rigtige udstyrspakke! "
 foerstegangsydelse: "43.000 kr. "
 maanedlig_ydelse: "3.350 kr. "
