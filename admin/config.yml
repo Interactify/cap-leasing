@@ -20,6 +20,7 @@ collections:
     sort: "date:desc"
     fields:
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1", class: "post-title"}
+      - {label: "Gruppe", name: "gruppe", widget: "string", tagname: "h2", class: "small"}
       - {label: "Beskrivelse", name: "beskrivelse", widget: "markdown", tagname: "div", class: "post-bd"}
       - {label: "Førstegangsydelse", name: "foerstegangsydelse", widget: "string", tagname: "p", class: "small muted hidden"}
       - {label: "Månedlig ydelse", name: "maanedlig_ydelse", widget: "string", tagname: "p", class: "small muted hidden"}
