@@ -30,7 +30,7 @@ billede_8: /images/uploads/mercedes-e350-cdi-coup/15.jpg
 billede_9: null
 billede_10: /images/uploads/mercedes-e350-cdi-coup/16.jpg
 cmsUserSlug: ""
-date: 2016-11-25 
+date: 2016-11-25T00:00:00.000Z
 layout: post
 ---
 
