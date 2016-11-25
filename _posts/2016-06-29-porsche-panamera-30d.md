@@ -1,10 +1,9 @@
 ---
 title: Porsche Panamera 3.0d
-gruppe: Porsche
 beskrivelse: "Panameraen er efterhånden blvet en klassiker i luksus sedan klassen og har både evnen til at være en hidsig racer og en rolig familie-flyder.  "
-foerstegangsydelse: "122.000 kr. "
-maanedlig_ydelse: "7.900 kr. "
-restvaerdi: "378.000 "
+foerstegangsydelse: "112.000 kr. "
+maanedlig_ydelse: "5.900 kr. "
+restvaerdi: "338.000 "
 volumen: "0"
 cylindre: "6"
 antal_ventiler: "0"
