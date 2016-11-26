@@ -1,7 +1,7 @@
 ---
 title: Porsche Panamera 3.0 diesel
 gruppe: Porsche
-beskrivelse: "Panameraen er efterhånden blvet en klassiker i luksus sedan klassen og har både evnen til at være en hidsig racer og en rolig familie-flyder.  "
+beskrivelse: "Panameraen er efterhånden blvet en klassiker i luksus klassen og har både evnen til at være en hidsig racer og en rolig familie-flyder.  "
 foerstegangsydelse: "112.000 kr. "
 maanedlig_ydelse: "5.900 kr. "
 restvaerdi: "338.000 "
