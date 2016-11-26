@@ -1,5 +1,6 @@
 ---
-title: MERCEDES E350 CDI COUPÉ
+title: Mercedes E350 CDI Coup´s
+gruppe: Mercedes
 beskrivelse: "Blueeffinciency, AMG pakke, fuld service, panorama soltag, 19 tommer AMG fælge, aut. gear, Xenon m. kurvelys, læderrat m. multifunktion, el-sæder m. varme, el-spejle, fartpilot, navi\n\n- Forsikring til 622 kr. per måned\n- Garanti"
 foerstegangsydelse: 53.000 kr. inkl. moms
 maanedlig_ydelse: 3.358 kr. inkl. moms
