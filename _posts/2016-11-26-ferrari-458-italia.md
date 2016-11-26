@@ -1,6 +1,6 @@
 ---
 title: Ferrari 458 Italia
-gruppe: Personbil
+gruppe: Ferrari
 beskrivelse: Legendariske 458 Italiaer ideel til sæsonleasing. Leveres med fuld garanti med fuld kasko for 1.130 kr. per måned.
 foerstegangsydelse: 175.000 kr. inkl. moms
 maanedlig_ydelse: 16.900 kr. inkl. moms
@@ -31,7 +31,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-11-26 
+date: 2016-11-26T00:00:00.000Z
 layout: post
 ---
 
