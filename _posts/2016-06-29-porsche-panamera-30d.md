@@ -1,25 +1,25 @@
 ---
-title: Porsche Panamera 3.0d
+title: Porsche Panamera 3.0 diesel
 gruppe: Porsche
-beskrivelse: "Panameraen er efterhånden blvet en klassiker i luksus sedan klassen og har både evnen til at være en hidsig racer og en rolig familie-flyder.  "
-foerstegangsydelse: "122.000 kr. "
-maanedlig_ydelse: "7.900 kr. "
-restvaerdi: "378.000 "
+beskrivelse: "Panameraen er efterhånden blvet en klassiker i luksus klassen og har både evnen til at være en hidsig racer og en rolig familie-flyder.  "
+foerstegangsydelse: "112.000 kr. "
+maanedlig_ydelse: "5.900 kr. "
+restvaerdi: "338.000 "
 volumen: "0"
 cylindre: "6"
 antal_ventiler: "0"
 gear: "Aut. "
 traek: "Baghjul "
-btype: "Sedan "
+btype: Saloon
 foerstereg: 01-04-2012
 kilometer: "39.000"
 braendstof: Diesel
-farve: Metalic Brun
+farve: Sort
 doere: "4"
 effekt: "0"
 moment: "0"
 topfart: "250"
-acc: "0"
+acc: "5,2"
 billede_1: /images/uploads/porsche-panamera-30d/pa1.jpg
 billede_2: /images/uploads/porsche-panamera-30d/pa2.jpg
 billede_3: /images/uploads/porsche-panamera-30d/pa3.jpg
