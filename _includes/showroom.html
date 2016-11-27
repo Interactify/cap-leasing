@@ -301,7 +301,7 @@
 </script>
 <script>
     var cars = {"cars":[
-        {% for post in site.posts %}
+        {% for post in sorted_pages %}
         {
             "carid": "{{forloop.index}}",
             "carurl": "{{post.url | prepend: site.baseurl }}",
