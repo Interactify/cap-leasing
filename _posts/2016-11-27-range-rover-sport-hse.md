@@ -1,37 +1,37 @@
 ---
-title: Range Rover Sport HSE
-gruppe: Land Rover
-beskrivelse: "Fuld service, soltag, multifunktion, fjernbetjent centrallås, el-ruder/spejle, varme i sæderne, bi-zone klima, fartpilot, 19 tommer fælge m. nye dæk."
-foerstegangsydelse: 35.000 kr. inkl. moms
-maanedlig_ydelse: 3.214 kr. inkl. oms
-restvaerdi: 136.000 inkl. moms / eks. afgift
-volumen: "2,7"
-cylindre: "6"
+title: "Audi A7 3,0 TDi 245 SB quattro S-tr."
+gruppe: Audi
+beskrivelse: "Bilen er på lager, kontakt for mere info og bestil en prøvetur.\n\n- Fri km. \n\n- Klar til levering.\n\n- Mulighed for mekaniskgaranti.\n\n ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n✔ Mulighed for billig forsikring \n\n✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
+foerstegangsydelse: 73.000 kr. inkl. moms
+maanedlig_ydelse: 4.811 kr. inkl. oms
+restvaerdi: 200.000 eks. moms / eks. afgift
+volumen: "3,0"
+cylindre: "0"
 antal_ventiler: "0"
-gear: "6"
+gear: "7"
 traek: Nej
-btype: 4X4
-foerstereg: 01-04-2008
-kilometer: "136.000"
+btype: Personbil
+foerstereg: 01-02-2012
+kilometer: "112.000"
 braendstof: Diesel
 farve: Sort
-doere: "4"
-effekt: "190"
-moment: "440"
-topfart: "193"
-acc: "12,7"
-billede_1: /images/uploads/range-rover-sport-hse/14721642_324467057909888_4977378718458072642_n.jpg
-billede_2: /images/uploads/range-rover-sport-hse/14908295_324467067909887_6204349321404103253_n.jpg
-billede_3: /images/uploads/range-rover-sport-hse/14572938_324467114576549_5486824068309406958_n.jpg
-billede_4: /images/uploads/range-rover-sport-hse/14600917_324467141243213_4035462701092833701_n.jpg
-billede_5: /images/uploads/range-rover-sport-hse/14708104_324467157909878_6918726897439065296_n.jpg
-billede_6: /images/uploads/range-rover-sport-hse/14573009_324467164576544_3033042814915956011_n.jpg
-billede_7: /images/uploads/range-rover-sport-hse/14725687_324467187909875_2874575678886971705_n.jpg
-billede_8: null
+doere: "5"
+effekt: 245 HK
+moment: "500"
+topfart: "250"
+acc: "6,3"
+billede_1: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_1.jpg
+billede_2: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599.jpg
+billede_3: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_2.jpg
+billede_4: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_3.jpg
+billede_5: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_4.jpg
+billede_6: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_5.jpg
+billede_7: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_6.jpg
+billede_8: /images/uploads/audi-a7-30-tdi-245-sb-quattro-s-tr/2146784599_7.jpg
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2016-11-27 
+date: 2016-11-27T00:00:00.000Z
 layout: post
 ---
 
