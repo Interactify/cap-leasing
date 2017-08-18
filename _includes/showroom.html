@@ -305,7 +305,7 @@
         {
             "carid": "{{forloop.index}}",
             "carurl": "{{post.url | prepend: site.baseurl }}",
-            "title": "{{post.title}}",
+            "title": "{{post.title | replace:'"','\"'}}",
 			"beskrivelse": {{post.beskrivelse | jsonify }},
 			"foerstegangsydelse": "{{post.foerstegangsydelse | tusinde}}",
 			"maanedlig_ydelse": "{{post.maanedlig_ydelse | tusinde}}",
