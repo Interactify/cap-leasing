@@ -3,7 +3,7 @@ $(function(){
 		event.preventDefault();
 		var objModel=$('#modal-car-1').find('.modal-content');
 		
-		console.log(cars);
+		// console.log(cars);
 		var car;
 		for (i=0;i<cars.cars.length;i++) {
 			if ($(this).data('jid') === cars.cars[i].carurl) {
@@ -89,7 +89,16 @@ $(function(){
 		if (obj){
 			var objModel=$('#modal-car-1').find('.modal-content');
 			// Create the template from json
-			var car = cars.cars[$(obj).data('jid')-1];
+			// var car = cars.cars[$(obj).data('jid')-1];
+			console.log('test');
+			var car;
+			for (i=0;i<cars.cars.length;i++) {
+				if ($(obj).data('jid') === cars.cars[i].carurl) {
+					console.log(i);
+					console.log($(obj).data('jid') + ' = ' + cars.cars[i].carurl);
+					car = cars.cars[i];
+				}
+			}
 			
 			//console.log(parseTemplate(car));
 			
