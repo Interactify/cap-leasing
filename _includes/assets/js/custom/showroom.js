@@ -5,7 +5,7 @@ $(function(){
 		
 		console.log(cars);
 		var car;
-		for (i=0;i<=cars.cars.length;i++) {
+		for (i=0;i<cars.cars.length;i++) {
 			if ($(this).data('jid') === cars.cars[i].carurl) {
 				console.log(i);
 				console.log($(this).data('jid') + ' = ' + cars.cars[i].carurl);
