@@ -38,9 +38,9 @@
                     </ul>
                     <div class="price-footer">
                         {% if forloop.index != 2 %}
-							 <h4><a href="#" class="btn btn-white priseks" data-url="{{ post.url | prepend: site.baseurl }}" data-jid="{{forloop.index}}">Showroom</a></h4>
+							 <h4><a href="#" class="btn btn-white priseks" data-url="{{ post.url | prepend: site.baseurl }}" data-jid="{{post.url}}">Showroom</a></h4>
                         {% else %}
-                             <h4><a href="#" class="btn btn-border-theme priseks" data-url="{{ post.url | prepend: site.baseurl }}" data-jid="{{forloop.index}}">Showroom</a></h4>
+                             <h4><a href="#" class="btn btn-border-theme priseks" data-url="{{ post.url | prepend: site.baseurl }}" data-jid="{{post.url}}">Showroom</a></h4>
 						{% endif %}
                     </div>
                 </div>
