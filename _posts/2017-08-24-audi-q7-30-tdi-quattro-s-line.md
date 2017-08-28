@@ -1,5 +1,5 @@
 ---
-title: "AUDI Q7 3,0 TDI QUATTRO S-LINE"
+title: "Audi Q7 3,0 TDI QUATTRO S-LINE"
 gruppe: Audi
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
 foerstegangsydelse: 55.000 Kr.
@@ -31,7 +31,7 @@ billede_8: /images/uploads/audi-q7-30-tdi-quattro-s-line/17884016_40836090618716
 billede_9: /images/uploads/audi-q7-30-tdi-quattro-s-line/17903720_408361012853825_7819813745861037342_n.jpg
 billede_10: /images/uploads/audi-q7-30-tdi-quattro-s-line/17884656_408361016187158_408662119179369111_n.jpg
 cmsUserSlug: ""
-date: 2017-08-24 
+date: 2017-08-24T00:00:00.000Z
 layout: post
 ---
 
