@@ -1,6 +1,6 @@
 ---
-title: MERCEDES-Benz C220 AMG Pakke
-gruppe: MERCEDES
+title: Mercedes-Benz C220 AMG Pakke
+gruppe: Mercedes
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n  \n"
 foerstegangsydelse: 29.000 Kr.
 maanedlig_ydelse: 2.800 Kr.
@@ -31,7 +31,7 @@ billede_8: /images/uploads/mercedes-benz-c220-amg-pakke/8.jpg
 billede_9: /images/uploads/mercedes-benz-c220-amg-pakke/9.jpg
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-25 
+date: 2017-08-25T00:00:00.000Z
 layout: post
 ---
 
