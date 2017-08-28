@@ -1,6 +1,6 @@
 ---
 title: Audi A4 Allroad 3.0 TDI Quattro
-gruppe: AUDI
+gruppe: Audi
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
 foerstegangsydelse: 59.000 Kr.
 maanedlig_ydelse: 3.800 Kr.
@@ -31,7 +31,7 @@ billede_8: /images/uploads/audi-a4-allroad-30-tdi-quattro/18342047_4227658280800
 billede_9: /images/uploads/audi-a4-allroad-30-tdi-quattro/18403592_422765818080011_6514571421049062582_n.jpg
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-25 
+date: 2017-08-25T00:00:00.000Z
 layout: post
 ---
 
