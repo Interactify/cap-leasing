@@ -1,5 +1,5 @@
 ---
-title: "AUDI A6 3,0 TDI QUATTRO 313 HK S-LINE "
+title: "Audi A6 3,0 TDI QUATTRO 313 HK S-LINE "
 gruppe: Audi
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n  \n"
 foerstegangsydelse: 65.000 Kr.
@@ -31,7 +31,7 @@ billede_8: /images/uploads/audi-a6-30-tdi-quattro-313-hk-s-line/8.jpg
 billede_9: /images/uploads/audi-a6-30-tdi-quattro-313-hk-s-line/9.jpg
 billede_10: /images/uploads/audi-a6-30-tdi-quattro-313-hk-s-line/10.jpg
 cmsUserSlug: ""
-date: 2017-08-24 
+date: 2017-08-24T00:00:00.000Z
 layout: post
 ---
 
