@@ -1,6 +1,6 @@
 ---
-title: "PORSCHE 911 CARRERA "
-gruppe: PORSCHE
+title: "Porsche 911 CARRERA "
+gruppe: Porsche
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
 foerstegangsydelse: 150.000 Kr.
 maanedlig_ydelse: 11.000 Kr
@@ -31,7 +31,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-25 
+date: 2017-08-25T00:00:00.000Z
 layout: post
 ---
 
