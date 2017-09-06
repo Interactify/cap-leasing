@@ -20,18 +20,18 @@ effekt: 550 Hk.
 moment: 750 Nm.
 topfart: 360 Km/t
 acc: "3,8 Sek."
-billede_1: /images/uploads/porsche-panamera-s-48-pdk/2146779134.jpg
-billede_2: /images/uploads/porsche-panamera-s-48-pdk/2146779134_1.jpg
-billede_3: /images/uploads/porsche-panamera-s-48-pdk/2146779134_3.jpg
-billede_4: /images/uploads/porsche-panamera-s-48-pdk/2146779134_4.jpg
-billede_5: /images/uploads/porsche-panamera-s-48-pdk/2146779134_5.jpg
-billede_6: /images/uploads/porsche-panamera-s-48-pdk/2146779134_7.jpg
+billede_1: /images/uploads/21246491_473900756299850_6680620760362911655_o.jpg
+billede_2: /images/uploads/21199353_473900762966516_7957574249780320043_o.jpg
+billede_3: /images/uploads/21273278_473900809633178_9023485442087707842_o.jpg
+billede_4: /images/uploads/21167913_473900796299846_5833875841435606503_o.jpg
+billede_5: /images/uploads/21200463_473900856299840_2691689388297979220_o.jpg
+billede_6: /images/uploads/21167981_473900806299845_9069900064179736795_o.jpg
 billede_7: /images/uploads/porsche-panamera-s-48-pdk/2146779134_8.jpg
 billede_8: /images/uploads/porsche-panamera-s-48-pdk/2146779134_9.jpg
 billede_9: /images/uploads/porsche-panamera-s-48-pdk/2146779134_10.jpg
-billede_10: /images/uploads/porsche-panamera-s-48-pdk/2146779134_11.jpg
+billede_10: null
 cmsUserSlug: ""
-date: 2017-08-21 
+date: 2017-08-21T00:00:00.000Z
 layout: post
 ---
 
