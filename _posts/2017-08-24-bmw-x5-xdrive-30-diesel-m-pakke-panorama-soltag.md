@@ -20,18 +20,18 @@ effekt: 306 Hk.
 moment: 600 Nm.
 topfart: 236 Km/t
 acc: 6.6 sek.
-billede_1: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18198252_417153815307878_4748388390095246114_n.jpg
-billede_2: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18193692_417153818641211_3335257916423128583_n.jpg
-billede_3: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18118587_417153821974544_6934051602301461661_n.jpg
-billede_4: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18199409_417153848641208_8906659571976089556_n.jpg
-billede_5: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18157207_417153885307871_80387032147744834_n.jpg
-billede_6: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18157270_417153888641204_1053585324678610388_n.jpg
-billede_7: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18193839_417153855307874_2312384177946598855_n.jpg
-billede_8: /images/uploads/bmw-x5-xdrive-30-diesel-m-pakke-panorama-soltag/18194584_417153851974541_2216526353654658241_n.jpg
-billede_9: null
-billede_10: null
+billede_1: /images/uploads/img_8286.jpg
+billede_2: /images/uploads/img_8285.jpg
+billede_3: /images/uploads/img_8274.jpg
+billede_4: /images/uploads/img_8293.jpg
+billede_5: /images/uploads/img_8280.jpg
+billede_6: /images/uploads/img_8283.jpg
+billede_7: /images/uploads/img_8294.jpg
+billede_8: /images/uploads/img_8282.jpg
+billede_9: /images/uploads/img_8279.jpg
+billede_10: /images/uploads/img_8288.jpg
 cmsUserSlug: ""
-date: 2017-08-24 
+date: 2017-08-24T00:00:00.000Z
 layout: post
 ---
 
