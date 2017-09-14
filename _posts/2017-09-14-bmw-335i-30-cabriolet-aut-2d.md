@@ -21,17 +21,17 @@ moment: 400 Nm.
 topfart: 250 Km/t.
 acc: "5,7 Sek."
 billede_1: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8371.jpg
-billede_2: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8370.jpg
-billede_3: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8374.jpg
-billede_4: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8372.jpg
-billede_5: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8376.jpg
-billede_6: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8378.jpg
-billede_7: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8382.jpg
-billede_8: /images/uploads/bmw-335i-30-cabriolet-aut-2d/img_8377.jpg
-billede_9: null
+billede_2: /images/uploads/img_8385.jpg
+billede_3: /images/uploads/img_8370.jpg
+billede_4: /images/uploads/img_8374.jpg
+billede_5: /images/uploads/img_8372.jpg
+billede_6: /images/uploads/img_8376.jpg
+billede_7: /images/uploads/img_8378.jpg
+billede_8: /images/uploads/img_8382.jpg
+billede_9: /images/uploads/img_8377.jpg
 billede_10: null
 cmsUserSlug: ""
-date: 2017-09-14 
+date: 2017-09-14T00:00:00.000Z
 layout: post
 ---
 
