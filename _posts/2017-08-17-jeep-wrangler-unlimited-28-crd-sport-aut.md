@@ -20,18 +20,18 @@ effekt: 177 Hk.
 moment: 410 Nm.
 topfart: 180 Km/t
 acc: "11,1 sek"
-billede_1: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572.jpg
-billede_2: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_1.jpg
-billede_3: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_2.jpg
-billede_4: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_3.jpg
-billede_5: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_4.jpg
-billede_6: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_5.jpg
-billede_7: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_6.jpg
-billede_8: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_7.jpg
-billede_9: /images/uploads/jeep-wrangler-unlimited-28-crd-sport-aut/2146792572_8.jpg
+billede_1: /images/uploads/img_8433.jpg
+billede_2: /images/uploads/img_8431.jpg
+billede_3: /images/uploads/img_8437.jpg
+billede_4: /images/uploads/img_8435.jpg
+billede_5: /images/uploads/img_8439.jpg
+billede_6: /images/uploads/img_8441.jpg
+billede_7: /images/uploads/img_8434.jpg
+billede_8: null
+billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-17 
+date: 2017-08-17T00:00:00.000Z
 layout: post
 ---
 
