@@ -20,18 +20,18 @@ effekt: 400 Hk.
 moment: 440 Nm.
 topfart: 297 Km/t
 acc: "4,3 Sek."
-billede_1: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816_1.jpg
-billede_2: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816.jpg
-billede_3: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816_2.jpg
-billede_4: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816_3.jpg
-billede_5: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816_4.jpg
-billede_6: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816_5.jpg
+billede_1: /images/uploads/2017_09_15_capleasing_010.jpg
+billede_2: /images/uploads/2017_09_15_capleasing_017.jpg
+billede_3: /images/uploads/2017_09_15_capleasing_055.jpg
+billede_4: /images/uploads/2017_09_15_capleasing_153.jpg
+billede_5: null
+billede_6: /images/uploads/img_8480.jpg
 billede_7: /images/uploads/porsche-911-carrera-4s-38-coup-pdk/2146784816_6.jpg
-billede_8: null
+billede_8: /images/uploads/img_8486.jpg
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-21 
+date: 2017-08-21T00:00:00.000Z
 layout: post
 ---
 
