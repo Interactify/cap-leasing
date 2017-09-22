@@ -20,16 +20,16 @@ effekt: 306 Hk.
 moment: 600 Nm.
 topfart: 236 Km/t
 acc: 6.6 sek.
-billede_1: /images/uploads/img_8286.jpg
-billede_2: /images/uploads/img_8285.jpg
-billede_3: /images/uploads/img_8274.jpg
-billede_4: /images/uploads/img_8293.jpg
-billede_5: /images/uploads/img_8280.jpg
-billede_6: /images/uploads/img_8283.jpg
-billede_7: /images/uploads/img_8294.jpg
-billede_8: /images/uploads/img_8282.jpg
-billede_9: /images/uploads/img_8279.jpg
-billede_10: /images/uploads/img_8288.jpg
+billede_1: /images/uploads/img_8507.jpg
+billede_2: /images/uploads/img_8508.jpg
+billede_3: /images/uploads/img_8510.jpg
+billede_4: /images/uploads/img_8516.jpg
+billede_5: /images/uploads/img_8515.jpg
+billede_6: /images/uploads/img_8518.jpg
+billede_7: /images/uploads/img_8521.jpg
+billede_8: /images/uploads/img_8281.jpg
+billede_9: /images/uploads/img_8282.jpg
+billede_10: /images/uploads/img_8524.jpg
 cmsUserSlug: ""
 date: 2017-08-24T00:00:00.000Z
 layout: post
