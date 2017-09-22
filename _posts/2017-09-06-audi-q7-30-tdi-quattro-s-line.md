@@ -20,18 +20,18 @@ effekt: 240 Hk.
 moment: 550 Nm.
 topfart: 215 Km/t.
 acc: 8.1 Sek.
-billede_1: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8252.jpg
-billede_2: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8253.jpg
-billede_3: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8257.jpg
-billede_4: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8260.jpg
-billede_5: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8258.jpg
-billede_6: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8261.jpg
-billede_7: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8268.jpg
-billede_8: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8264.jpg
-billede_9: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8266.jpg
-billede_10: /images/uploads/audi-q7-30-tdi-quattro-s-line/img_8270.jpg
+billede_1: /images/uploads/img_8545.jpg
+billede_2: /images/uploads/img_8543.jpg
+billede_3: /images/uploads/img_8548.jpg
+billede_4: /images/uploads/img_8550.jpg
+billede_5: /images/uploads/img_8263.jpg
+billede_6: /images/uploads/img_8552.jpg
+billede_7: /images/uploads/img_8261.jpg
+billede_8: /images/uploads/img_8553.jpg
+billede_9: /images/uploads/img_8555.jpg
+billede_10: /images/uploads/img_8556.jpg
 cmsUserSlug: ""
-date: 2017-09-06 
+date: 2017-09-06T00:00:00.000Z
 layout: post
 ---
 
