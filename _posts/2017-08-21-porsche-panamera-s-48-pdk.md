@@ -20,16 +20,16 @@ effekt: 550 Hk.
 moment: 750 Nm.
 topfart: 360 Km/t
 acc: "3,8 Sek."
-billede_1: /images/uploads/21246491_473900756299850_6680620760362911655_o.jpg
-billede_2: /images/uploads/21199353_473900762966516_7957574249780320043_o.jpg
-billede_3: /images/uploads/21273278_473900809633178_9023485442087707842_o.jpg
-billede_4: /images/uploads/21167913_473900796299846_5833875841435606503_o.jpg
-billede_5: /images/uploads/21200463_473900856299840_2691689388297979220_o.jpg
-billede_6: /images/uploads/21167981_473900806299845_9069900064179736795_o.jpg
-billede_7: /images/uploads/porsche-panamera-s-48-pdk/2146779134_8.jpg
-billede_8: /images/uploads/porsche-panamera-s-48-pdk/2146779134_9.jpg
-billede_9: /images/uploads/porsche-panamera-s-48-pdk/2146779134_10.jpg
-billede_10: null
+billede_1: /images/uploads/2017_09_15_capleasing_058.jpg
+billede_2: /images/uploads/img_8594.jpg
+billede_3: /images/uploads/img_8598.jpg
+billede_4: /images/uploads/img_8599.jpg
+billede_5: /images/uploads/2017_09_15_capleasing_061.jpg
+billede_6: /images/uploads/img_8601.jpg
+billede_7: /images/uploads/img_8602.jpg
+billede_8: /images/uploads/img_8603.jpg
+billede_9: /images/uploads/img_8604.jpg
+billede_10: /images/uploads/2146761746_8.jpg
 cmsUserSlug: ""
 date: 2017-08-21T00:00:00.000Z
 layout: post
