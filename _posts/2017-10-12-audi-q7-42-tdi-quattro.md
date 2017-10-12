@@ -1,7 +1,7 @@
 ---
 title: "Audi Q7 4,2 TDi quattro "
 gruppe: Audi
-beskrivelse: "✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n✔ Mulighed for garanti på bilen i hele leasingperioden: Ingen uventede. værksteds regninger.\n\n✔ Vi tilbyder forsikring med fuld kasko helt ned til 18 år.\n\n✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste og bedste leasingpakker.\n\nKontakt os for mere info eller en prøvetur\n\n"
+beskrivelse: "✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n\n✔ Mulighed for garanti på bilen i hele leasingperioden: Ingen uventede. værksteds regninger.\n\n\n✔ Vi tilbyder forsikring med fuld kasko helt ned til 18 år.\n\n\n✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste og bedste leasingpakker.\n\n\nKontakt os for mere info eller en prøvetur\n\n"
 foerstegangsydelse: 48.473 Kr.
 maanedlig_ydelse: 4.032 Kr.
 restvaerdi: 125.240 Kr. eks moms/afgift.
@@ -31,7 +31,7 @@ billede_8: /images/uploads/audi-q7-42-tdi-quattro/img_8711.jpg
 billede_9: /images/uploads/audi-q7-42-tdi-quattro/img_8710.jpg
 billede_10: /images/uploads/audi-q7-42-tdi-quattro/img_8717.jpg
 cmsUserSlug: ""
-date: 2017-10-12 
+date: 2017-10-12T00:00:00.000Z
 layout: post
 ---
 
