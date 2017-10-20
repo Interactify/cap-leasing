@@ -21,15 +21,15 @@ moment: 540 Nm.
 topfart: 250 Km/t
 acc: "6,9 Sek."
 billede_1: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/1.jpg
-billede_2: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/2.jpg
-billede_3: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/3.jpg
-billede_4: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/4.jpg
-billede_5: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/5.jpg
-billede_6: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/6.jpg
-billede_7: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/7.jpg
-billede_8: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/8.jpg
-billede_9: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/9.jpg
-billede_10: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/10.jpg
+billede_2: /images/uploads/2.jpg
+billede_3: /images/uploads/3.jpg
+billede_4: /images/uploads/4.jpg
+billede_5: /images/uploads/5.jpg
+billede_6: /images/uploads/6.jpg
+billede_7: /images/uploads/7.jpg
+billede_8: /images/uploads/8.jpg
+billede_9: /images/uploads/9.jpg
+billede_10: /images/uploads/10.jpg
 cmsUserSlug: ""
 date: 2017-10-20T00:00:00.000Z
 layout: post
