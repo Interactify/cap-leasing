@@ -31,7 +31,7 @@ billede_8: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/8.jpg
 billede_9: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/9.jpg
 billede_10: /images/uploads/mercedes-e350-35-cgi-amg-cabriolet/10.jpg
 cmsUserSlug: ""
-date: 2017-10-20 
+date: 2017-10-20T00:00:00.000Z
 layout: post
 ---
 
