@@ -11,8 +11,8 @@ antal_ventiler: "0"
 gear: "8"
 traek: Nej.
 btype: Personbil.
-foerstereg: 01.10.2014
-kilometer: 55.000 Km.
+foerstereg: 01.11.2013
+kilometer: 93.000 Km.
 braendstof: Diesel.
 farve: Sort.
 doere: "5."
@@ -31,7 +31,7 @@ billede_8: null
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2017-10-25 
+date: 2017-10-25T00:00:00.000Z
 layout: post
 ---
 
