@@ -1,7 +1,7 @@
 ---
-title: "Mercedes E350 3,5 CGi Avantgarde Cab. aut. BE"
+title: "Mercedes E350 3,5 CGi Avantgarde Cab. aut. BE "
 gruppe: Mercedes
-beskrivelse: "Bilen er på lager, kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
+beskrivelse: "6 Måneders leasing aftale.\n\nBilen er på lager, kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
 foerstegangsydelse: "35.000 kr. "
 maanedlig_ydelse: "3.795 kr. "
 restvaerdi: 176.000 eks. moms/afgift
@@ -31,7 +31,7 @@ billede_8: /images/uploads/mercedes-e350-35-cgi-avantgarde-cab-aut-be/2146782853
 billede_9: /images/uploads/mercedes-e350-35-cgi-avantgarde-cab-aut-be/2146782853_8.jpg
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-21 
+date: 2017-08-21T00:00:00.000Z
 layout: post
 ---
 
