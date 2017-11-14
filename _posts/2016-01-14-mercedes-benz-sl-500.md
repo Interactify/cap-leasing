@@ -2,9 +2,9 @@
 title: Mercedes-Benz SL 500
 gruppe: Mercedes
 beskrivelse: "Original AMG-Pakke "
-foerstegangsydelse: "45.000"
-maanedlig_ydelse: "1.900"
-restvaerdi: "135.000"
+foerstegangsydelse: 43.750 Inkl. moms.
+maanedlig_ydelse: 2.400 Inkl. moms.
+restvaerdi: 130.700 Kr. eks. moms/afgift.
 volumen: "0"
 cylindre: "8"
 antal_ventiler: "0"
