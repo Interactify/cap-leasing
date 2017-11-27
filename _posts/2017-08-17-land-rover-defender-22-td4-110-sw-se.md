@@ -20,18 +20,18 @@ effekt: 122 Hk.
 moment: Nm.
 topfart: "0"
 acc: "0"
-billede_1: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381.jpg
-billede_2: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381_1.jpg
-billede_3: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381_2.jpg
-billede_4: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381_3.jpg
-billede_5: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381_4.jpg
-billede_6: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381_5.jpg
-billede_7: /images/uploads/land-rover-defender-22-td4-110-sw-se/2146779381_6.jpg
-billede_8: null
-billede_9: null
+billede_1: /images/uploads/2017_09_15_capleasing_039.jpg
+billede_2: /images/uploads/2017_09_15_capleasing_040.jpg
+billede_3: /images/uploads/23843584_507637462926179_1591891408842903264_n.jpg
+billede_4: /images/uploads/23844715_507637459592846_3915920946151939554_n.jpg
+billede_5: /images/uploads/2146779381_1.jpg
+billede_6: /images/uploads/2146779381.jpg
+billede_7: /images/uploads/2146779381_4.jpg
+billede_8: /images/uploads/2146779381_5.jpg
+billede_9: /images/uploads/2146779381_6.jpg
 billede_10: null
 cmsUserSlug: ""
-date: 2017-08-17 
+date: 2017-08-17T00:00:00.000Z
 layout: post
 ---
 
