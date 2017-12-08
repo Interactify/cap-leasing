@@ -2,8 +2,8 @@
 title: Audi Q7 3.0 TDI Quattro S-line
 gruppe: Audi
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
-foerstegangsydelse: 46.000 kr. inkl. moms
-maanedlig_ydelse: 3.435 kr. inkl. moms
+foerstegangsydelse: 31.200 kr.
+maanedlig_ydelse: 3.107 kr.
 restvaerdi: 125.000 Kr. eks. moms/afgift
 volumen: "3.0"
 cylindre: "6"
