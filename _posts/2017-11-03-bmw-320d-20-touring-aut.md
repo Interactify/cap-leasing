@@ -2,8 +2,8 @@
 title: "BMW 320d 2,0 Touring aut."
 gruppe: BMW
 beskrivelse: "*    Vi tilbyder fri kilometer i hele leasingperioden.\n\n*    Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n*    Vi tilbyder kaskoforsikring på alle vores biler\n\n*    Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n*    Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n*    Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen."
-foerstegangsydelse: "43.750 kr. "
-maanedlig_ydelse: 2.782 kr.
+foerstegangsydelse: 31.200 kr. eks. moms / 39.000 kr. inkl. moms
+maanedlig_ydelse: 2.782 kr. inkl. moms
 restvaerdi: 120.000 kr. eks moms/afgift
 volumen: "2,0"
 cylindre: "4"
@@ -31,7 +31,7 @@ billede_8: /images/uploads/bmw-320d-20-touring-aut/img_8919.jpg
 billede_9: /images/uploads/bmw-320d-20-touring-aut/img_8921.jpg
 billede_10: /images/uploads/bmw-320d-20-touring-aut/img_8936.jpg
 cmsUserSlug: ""
-date: 2017-11-03 
+date: 2017-11-03T00:00:00.000Z
 layout: post
 ---
 
