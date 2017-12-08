@@ -1,7 +1,7 @@
 ---
 title: "Audi A5 2,0 TSFI Quattro S-Line"
 gruppe: Audi
-beskrivelse: "S-Line, "
+beskrivelse: "S-Line, sort himmel, fuld læder, xenon, bi-zone klima og meget mere. \n\n"
 foerstegangsydelse: 28.000 kr. eks moms / 35.000 kr. inkl. moms
 maanedlig_ydelse: "2.303 kr. "
 restvaerdi: 105.000 kr. Inkl. moms
