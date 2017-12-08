@@ -2,8 +2,8 @@
 title: "Audi A5 2,0 TSFI Quattro S-Line"
 gruppe: Audi
 beskrivelse: "S-Line, sort himmel, fuld læder, xenon, bi-zone klima og meget mere. \n\nKontakt for mere info og bestil en prøvetur. - Fri km. - Klar til levering. - Mulighed for mekaniskgaranti. ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden. ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger. ✔ Mulighed for billig forsikring ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K. ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker."
-foerstegangsydelse: 28.000 kr. eks moms / 35.000 kr. inkl. moms
-maanedlig_ydelse: "2.303 kr. "
+foerstegangsydelse: 28.000 kr. eks moms
+maanedlig_ydelse: "1.842 kr. "
 restvaerdi: 105.000 kr. Inkl. moms
 volumen: "2,0"
 cylindre: "4"
