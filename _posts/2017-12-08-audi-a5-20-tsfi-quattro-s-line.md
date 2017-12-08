@@ -3,7 +3,7 @@ title: "Audi A5 2,0 TSFI Quattro S-Line"
 gruppe: Audi
 beskrivelse: "S-Line, "
 foerstegangsydelse: 28.000 kr. eks moms / 35.000 kr. inkl. moms
-maanedlig_ydelse: 1.842 kr. / 2.303 kr. inkl moms
+maanedlig_ydelse: "2.303 kr. "
 restvaerdi: 105.000 kr. Inkl. moms
 volumen: "2,0"
 cylindre: "4"
@@ -31,7 +31,7 @@ billede_8: /images/uploads/audi-a5-20-tsfi-quattro-s-line/img_9273.jpg
 billede_9: null
 billede_10: null
 cmsUserSlug: ""
-date: 2017-12-08 
+date: 2017-12-08T00:00:00.000Z
 layout: post
 ---
 
