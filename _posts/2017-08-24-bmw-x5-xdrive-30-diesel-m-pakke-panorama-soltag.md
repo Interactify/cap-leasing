@@ -2,8 +2,8 @@
 title: "BMW X5 xDrive 3,0 Diesel M-Pakke"
 gruppe: BMW
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
-foerstegangsydelse: 56.000 Kr.
-maanedlig_ydelse: 3.600 Kr.
+foerstegangsydelse: 44.800 Kr.
+maanedlig_ydelse: 2.880 Kr.
 restvaerdi: 170.000 Kr. eks. moms/afgift
 volumen: "3,0"
 cylindre: "6"
