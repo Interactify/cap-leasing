@@ -2,8 +2,8 @@
 title: "Audi SQ5 3,0 TDi 313 quattro"
 gruppe: Audi
 beskrivelse: "  \n* Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n\n__________________________________\n\n https://www.bilbasen.dk/find-en-forhandler/bilforhandler-capleasing-aps-id11837\n\n"
-foerstegangsydelse: 80.000 Kr.
-maanedlig_ydelse: 5.115 Kr.
+foerstegangsydelse: 63.200 Kr.
+maanedlig_ydelse: 4.092 Kr.
 restvaerdi: 222.000 Kr. eks moms/afgift.
 volumen: "3,0"
 cylindre: "6"
