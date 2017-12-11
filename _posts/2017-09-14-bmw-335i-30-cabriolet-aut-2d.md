@@ -1,9 +1,9 @@
 ---
-title: "BMW 335i 3,0 Cabriolet aut. 2d"
+title: "KAMPAGNE BMW 335i 3,0 Cabriolet aut. 2d"
 gruppe: BMW
-beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n  \n"
-foerstegangsydelse: 41.200 Kr.
-maanedlig_ydelse: 2.596 Kr.
+beskrivelse: "Bemærk priser eks moms. \n\nKontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n  \n"
+foerstegangsydelse: 30.500 kr
+maanedlig_ydelse: 2.720 kr
 restvaerdi: 140.000 Kr. eks. moms/afgift
 volumen: "3,0"
 cylindre: "6"
