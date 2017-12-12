@@ -1,7 +1,7 @@
 ---
 title: "Audi Q7 4,2 TDi quattro "
 gruppe: Audi
-beskrivelse: "✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n✔ Mulighed for garanti på bilen i hele leasingperioden: Ingen uventede. værksteds regninger.\n\n✔ Vi tilbyder forsikring med fuld kasko helt ned til 18 år.\n\n✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste og bedste leasingpakker.\n\nKontakt os for mere info eller en prøvetur\n\n"
+beskrivelse: "Komplet S-Line, 4,2 V8, sort himmel, panorama soltag, fuld læderkabine, xenon, bi-zone klima - meget mere. \n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen.\n"
 foerstegangsydelse: 32.000 kr. eks moms
 maanedlig_ydelse: 3.386 kr. eks moms
 restvaerdi: 125.240 Kr. eks moms/afgift.
