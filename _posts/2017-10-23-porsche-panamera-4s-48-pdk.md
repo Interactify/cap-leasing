@@ -1,6 +1,6 @@
 ---
 title: "Porsche Panamera 4S 4,8 PDK"
-gruppe: Limosine
+gruppe: Porsche
 beskrivelse: "Komplet GTS pakke: sort lygtehus, GTS skørter, udst. lyd-knap, GTS sæder med logo broderet i nakkestøtte, soltag osv. \n\nSort med lys læderkabine som er ekstrem velholdt. ____________________________________________\n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen.\n______________________________________________\t"
 foerstegangsydelse: 80.000 kr. eks moms
 maanedlig_ydelse: 6.979 kr. eks moms
