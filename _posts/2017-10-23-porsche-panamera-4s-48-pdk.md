@@ -1,10 +1,10 @@
 ---
 title: "Porsche Panamera 4S 4,8 PDK"
-gruppe: Porsche
-beskrivelse: "\n✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n✔ Mulighed for garanti på bilen i hele leasingperioden: Ingen uventede. værksteds regninger.\n\n✔ Vi tilbyder forsikring med fuld kasko helt ned til 18 år.\n\n✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste og bedste leasingpakker."
-foerstegangsydelse: "107.400 Kr. "
-maanedlig_ydelse: 9.233 Kr.
-restvaerdi: Restværdi 301.150 kr. eks moms/afgift
+gruppe: Limosine
+beskrivelse: "Komplet GTS pakke: sort lygtehus, GTS skørter, udst. lyd-knap, GTS sæder med logo broderet i nakkestøtte, soltag osv. \n\nSort med lys læderkabine som er ekstrem velholdt. ____________________________________________\n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen.\n______________________________________________\t"
+foerstegangsydelse: 80.000 kr. eks moms
+maanedlig_ydelse: 6.979 kr. eks moms
+restvaerdi: Restværdi 300.000 kr. eks moms/afgift
 volumen: "4,8"
 cylindre: "8"
 antal_ventiler: "0"
@@ -31,7 +31,7 @@ billede_8: /images/uploads/porsche-panamera-4s-48-pdk/9.jpg
 billede_9: /images/uploads/porsche-panamera-4s-48-pdk/11.jpg
 billede_10: /images/uploads/porsche-panamera-4s-48-pdk/12.jpg
 cmsUserSlug: ""
-date: 2017-10-23 
+date: 2017-10-23T00:00:00.000Z
 layout: post
 ---
 
