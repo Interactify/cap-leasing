@@ -1,10 +1,10 @@
 ---
 title: "Audi Q7 4,2 TDi quattro "
 gruppe: Audi
-beskrivelse: "Komplet S-Line, 4,2 V8, sort himmel, panorama soltag, fuld læderkabine, xenon, bi-zone klima - meget mere. \n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen.\n"
-foerstegangsydelse: 32.000 kr. eks moms
-maanedlig_ydelse: 3.386 kr. eks moms
-restvaerdi: 125.240 Kr. eks moms/afgift.
+beskrivelse: "Komplet S-Line, 4,2 V8, sort himmel, panorama soltag, fuld læderkabine, xenon, bi-zone klima - meget mere. \n\nKontakt os for mere info - tegnes både privat/erhverv\n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen.\n"
+foerstegangsydelse: 12.000 kr. eks moms
+maanedlig_ydelse: 2.622 kr. eks moms
+restvaerdi: 117.000 Kr. eks moms/afgift.
 volumen: "4,2"
 cylindre: "8"
 antal_ventiler: "0"
