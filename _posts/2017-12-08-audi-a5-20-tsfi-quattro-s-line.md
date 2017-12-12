@@ -1,10 +1,10 @@
 ---
 title: "KAMPAGNE A5 2,0 TSFI Quattro S-Line "
-gruppe: Audi
-beskrivelse: "S-Line, sort himmel, fuld læder, xenon, bi-zone klima og meget mere. \n\nKontakt for mere info og bestil en prøvetur. - Fri km. - Klar til levering. - Mulighed for mekaniskgaranti. ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden. ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger. ✔ Mulighed for billig forsikring ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K. ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker."
-foerstegangsydelse: 26.000 kr. eks moms
-maanedlig_ydelse: "1.842 kr. "
-restvaerdi: 105.000 kr. Inkl. moms
+gruppe: Coupé
+beskrivelse: "Hysterisk flot A5 Coupé med komplet S-Line pakke: xenon, sportssæder i dellæder, 18 tommer. daytona blue, sort himmel og meget mere.\n______________________________________________\n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen."
+foerstegangsydelse: 23.200 kr. eks moms
+maanedlig_ydelse: 1.807 kr. eks moms
+restvaerdi: 100.000 kr. Inkl. moms
 volumen: "2,0"
 cylindre: "4"
 antal_ventiler: "24"
