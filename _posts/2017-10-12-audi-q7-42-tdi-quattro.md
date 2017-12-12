@@ -20,7 +20,7 @@ effekt: 326 Hk.
 moment: 760 Nm.
 topfart: 236 Km/t
 acc: "6,4 Sek."
-billede_1: /images/uploads/audi-q7-42-tdi-quattro/img_8701.jpg
+billede_1: null
 billede_2: /images/uploads/audi-q7-42-tdi-quattro/img_8705.jpg
 billede_3: /images/uploads/audi-q7-42-tdi-quattro/img_8706.jpg
 billede_4: /images/uploads/audi-q7-42-tdi-quattro/img_8714.jpg
