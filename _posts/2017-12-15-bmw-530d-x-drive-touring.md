@@ -16,7 +16,7 @@ kilometer: "114.000"
 braendstof: Diesel
 farve: Imperial Blue-metallic
 doere: "4"
-effekt: 239 HK
+effekt: 258 HK
 moment: .
 topfart: .
 acc: .
