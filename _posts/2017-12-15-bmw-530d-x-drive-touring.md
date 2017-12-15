@@ -11,7 +11,7 @@ antal_ventiler: .
 gear: .
 traek: Nej
 btype: Touring
-foerstereg: "2013"
+foerstereg: "2014"
 kilometer: "114.000"
 braendstof: Diesel
 farve: Imperial Blue-metallic
