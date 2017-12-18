@@ -1,6 +1,6 @@
 ---
 title: "KAMPAGNE A5 2,0 TSFI Quattro S-Line "
-gruppe: KAMPAGNE
+gruppe: "Audi "
 beskrivelse: "Hysterisk flot A5 Coupé med komplet S-Line pakke: xenon, sportssæder i dellæder, 18 tommer. daytona blue, sort himmel og meget mere.\n______________________________________________\n\nI øvrigt\n* Vi tilbyder fri kilometer i hele leasingperioden.\n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n* Vi tilbyder kaskoforsikring på alle vores biler\n* Privat, sæson, split og erhverv – vi har det hele.\n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n* Vi opbevarer også gerne din bil over vinteren\n* Har vi ikke bilen på lager, dedikere vi os til at finde \n   den helt rigtige og står for importen."
 foerstegangsydelse: 23.200 kr. eks moms
 maanedlig_ydelse: 1.807 kr. eks moms
