@@ -2,8 +2,8 @@
 title: "Porsche Cayenne 3,0 D Tiptr. 5d"
 gruppe: "Porsche "
 beskrivelse: "* Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n\n"
-foerstegangsydelse: 84.900 kr. inkl. moms
-maanedlig_ydelse: 6.434 kr. inkl. moms
+foerstegangsydelse: 67.920 kr. eks moms
+maanedlig_ydelse: 5.120 kr. eks moms
 restvaerdi: 253.000 kr. eks moms/afgift
 volumen: "3,0"
 cylindre: "6"
