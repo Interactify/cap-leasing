@@ -2,8 +2,8 @@
 title: "Audi A4 Avant, 2,0 TDI S-line"
 gruppe: Audi
 beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n  \n"
-foerstegangsydelse: "29.000 kr. "
-maanedlig_ydelse: "1.840 kr. "
+foerstegangsydelse: 29.000 kr. eks moms
+maanedlig_ydelse: 1.840 kr. eks moms
 restvaerdi: 108.000 Kr. Eks moms/afgift
 volumen: "2,0"
 cylindre: "4"
