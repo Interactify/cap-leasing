@@ -2,8 +2,8 @@
 title: "Audi A7 3,0 TDI Quattro S-Line 313 HK"
 gruppe: Audi
 beskrivelse: "Komplet S-Line, soltag, dellæder, 20 tommer Audi fælge, Sound effect (V8), sort himmel.\n\nKontakt for mere info og bestil en prøvetur. - Fri km. - Klar til levering. - Mulighed for mekaniskgaranti. ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden. ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger. ✔ Mulighed for billig forsikring ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K. ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker."
-foerstegangsydelse: 66.038 kr.
-maanedlig_ydelse: "4.038 kr. "
+foerstegangsydelse: 66.038 kr. eks moms
+maanedlig_ydelse: 4.038 kr. eks moms
 restvaerdi: "186.000 kr. eks moms/afgift "
 volumen: "3,0"
 cylindre: "6"
