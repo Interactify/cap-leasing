@@ -1,9 +1,9 @@
 ---
 title: "Mercedes GL320 3,0 CDi aut. 4-M 5d"
 gruppe: Mercedes
-beskrivelse: " * Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n\nKontakt for mere info og bestil en prøvetur.\n"
-foerstegangsydelse: 46.499 Kr.
-maanedlig_ydelse: 2.631 Kr.
+beskrivelse: "7 Personers, panorama soltag og alt i udstyr.\n  \n\n* Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n\nKontakt for mere info og bestil en prøvetur.\n"
+foerstegangsydelse: 23.200 kr. eks moms
+maanedlig_ydelse: 2.337 kr. eks moms
 restvaerdi: 100.700 kr. eks moms/afgift
 volumen: "3,0"
 cylindre: "6"
