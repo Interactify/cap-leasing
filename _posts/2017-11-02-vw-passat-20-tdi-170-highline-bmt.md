@@ -1,6 +1,6 @@
 ---
 title: "VW Passat 2,0 TDi 170 Highline BMT "
-gruppe: KAMPAGNE
+gruppe: VW
 beskrivelse: "Highline, DSG gearkasse, soltag, sort læder, 19 tommer og meget mere. \n\n\n* Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n\n__________________________________\n\n https://www.bilbasen.dk/find-en-forhandler/bilforhandler-capleasing-aps-id11837\n\n__________________________________\n\nKontakt for mere info og bestil en prøvetur.  \n"
 foerstegangsydelse: 16.800 kr. eks moms
 maanedlig_ydelse: 1.888 kr. eks moms
