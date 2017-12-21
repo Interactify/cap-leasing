@@ -25,10 +25,10 @@ billede_2: /images/uploads/2.jpg
 billede_3: /images/uploads/3.jpg
 billede_4: /images/uploads/4.jpg
 billede_5: /images/uploads/6.jpg
-billede_6: /images/uploads/8.jpg
-billede_7: /images/uploads/9.jpg
-billede_8: /images/uploads/10.jpg
-billede_9: null
+billede_6: /images/uploads/5.jpg
+billede_7: /images/uploads/8.jpg
+billede_8: /images/uploads/9.jpg
+billede_9: /images/uploads/10.jpg
 billede_10: null
 cmsUserSlug: ""
 date: 2017-10-20T00:00:00.000Z
