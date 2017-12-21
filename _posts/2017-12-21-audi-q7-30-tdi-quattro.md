@@ -1,6 +1,6 @@
 ---
 title: "AUDI Q7 3,0 TDI QUATTRO"
-gruppe: AUDI
+gruppe: Audi
 beskrivelse: "LESINGAFTALEN LØBER 8 MDR. OG KAN FORLÆNGES.\n\nPanorama soltag, aut.gear/tiptronic, 6 gear, alu., 21\" alufælge, airc., fuldaut. klima, 2 zone klima, sædevarme, el indst. forsæder, el-soltag, glastag, 4x el-ruder, el-spejle, cd/radio, navigation, multifunktionsrat, bluetooth, airbag, esp, servo, indfarvede kofangere, hækspoiler, skørter, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, diesel partikel filter, service ok, ikke ryger\n\nI øvrigt  \n* Vi tilbyder fri kilometer i hele leasingperioden.  \n* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)  \n* Vi tilbyder kaskoforsikring på alle vores biler helt ned til 18 år\n* Privat, sæson, split og erhverv – vi har det hele.  \n* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.  \n* Vi opbevarer også gerne din bil over vinteren  \n* Har vi ikke bilen på lager, dedikere vi os til at finde   \nden helt rigtige og står for importen."
 foerstegangsydelse: 39.200 kr. eks moms
 maanedlig_ydelse: 3.758 kr. eks moms
