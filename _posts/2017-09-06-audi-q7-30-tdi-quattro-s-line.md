@@ -1,10 +1,10 @@
 ---
 title: Audi Q7 3.0 TDI Quattro S-line
 gruppe: Audi
-beskrivelse: "Kontakt for mere info og bestil en prøvetur.\n\n - Fri km. \n\n - Klar til levering.\n\n - Mulighed for mekaniskgaranti.\n\n\n  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\n\n ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\n\n ✔ Mulighed for billig forsikring \n\n ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.\n\n ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.\n\n"
-foerstegangsydelse: 31.200 kr.
-maanedlig_ydelse: 3.107 kr.
-restvaerdi: 125.000 Kr. eks. moms/afgift
+beskrivelse: "7prs,Aut.gear/Tiptronic, 21&quot; org. S-Line Alufælge, Multi-Media-InterfaceNavigation Plus, Udstyrs-pakke S line Sport / Plus, Exteriør-pakke S line,Open-Sky-System, Læder / Alcantara sæder, Xenonlys Plus, Fralægnings-pakke,Fører-informations-system, Dekorindlæg Aluminium Matt, Sort taghimmel,Sportsæder, El-just. lændestøtte, Sportsundervogn, Læderrat, Sportsrat,Multifunktionsrat, Alarmsystem, Optisk Parkeringshjælp / APS Plus, Fartpilot,Isofi, Lys-pakke, Armlæn, Soundsystem DSP / Audi Sound-System, Sædevarme,Bluetooth, Håndfrit til telefon, Adaptive Light, Tagræling, El-ruder, AirbagSideguard, Splitbagsæder, Regnsensor, Fjernb c.lås, El-spejle m. varme, Isofix,Klimaautomatik, Tågelys, Varme i sprinklerdyser, Varmeisolerende glas, ABS,ASR, EDS, ESP,\nI øvrigt\n\n* Vi tilbyderfri kilometer i hele leasingperioden.\n\n* CapApproved Garantiforsikring i hele leasingperioden. (valgfri)\n\n* Vi tilbyderkaskoforsikring på alle vores biler\n\n* Privat, sæson,split og erhverv – vi har det hele.\n\n* Du vælgerselv perioden: 6, 12, 24 eller 36 måneder.\n\n* Viopbevarer også gerne din bil over vinteren\n\n* Har vi ikkebilen på lager, dedikere vi os til at finde \n\nden heltrigtige og står for importen.\n\n"
+foerstegangsydelse: 17.000 kr. eks moms
+maanedlig_ydelse: 2.733 kr. eks moms
+restvaerdi: 120.000 Kr. inkl. moms/eks afgift.
 volumen: "3.0"
 cylindre: "6"
 antal_ventiler: "0"
