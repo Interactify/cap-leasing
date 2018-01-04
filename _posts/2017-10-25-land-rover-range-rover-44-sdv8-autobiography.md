@@ -2,9 +2,9 @@
 title: "Land Rover Range Rover 4,4 SDV8 Autobiography"
 gruppe: Land Rover
 beskrivelse: "  \n* Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n___________________________\n\n https://www.bilbasen.dk/find-en-forhandler/bilforhandler-capleasing-aps-id11837\n\n"
-foerstegangsydelse: 98.800 Kr.
-maanedlig_ydelse: 7.480 Kr.
-restvaerdi: 410.000 Kr. eks. Moms/afgift.
+foerstegangsydelse: 80.000 kr. eks moms
+maanedlig_ydelse: 6.541 kr. eks moms
+restvaerdi: 340.000 Kr. eks. moms/afgift.
 volumen: "4,4"
 cylindre: "8"
 antal_ventiler: "0"
