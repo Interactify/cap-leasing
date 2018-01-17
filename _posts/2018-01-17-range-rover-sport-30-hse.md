@@ -1,6 +1,6 @@
 ---
 title: "RANGE ROVER SPORT 3,0 HSE"
-gruppe: LAND ROVER
+gruppe: Land Rover
 beskrivelse: "20” Range Rover alufælge, Black Edition model, Premium navigationssystem, fartpilot, parkeringssensorer for og bag med bakkamera, Harman Kardon lydsystem, el. justerbare forsæder med varme, lændestøtte og memory funktion i førersædet, bluetooth, auto. klimaanlæg, Terrain Response System, fyr med fjernbetjening, Premium læderindtræk (sort), bi-xenon forlygter, multifunktionslæderrat med varme, tonede ruder, ambient belysning, AUX og USB, luftaffjedring med niveau kontrol, el. juster- og foldbare sidespejle med varme og memory, vinter komfort pakke, keyless entry &amp; go, bakspejl med auto. nedblænd, køleboks i midterkonsollen, el. bagklap, sædevarme på bagsæder, forrudevarme, foldbart/split bagsæde, Roll Stability Control, el. justerbar ratstamme , ikke ryger, nysynet, service ok"
 foerstegangsydelse: 39.500 kr. eks moms
 maanedlig_ydelse: 3.624 kr. eks moms
