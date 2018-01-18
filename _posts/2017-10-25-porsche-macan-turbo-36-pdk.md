@@ -1,9 +1,9 @@
 ---
-title: "Porsche Macan Turbo 3,6 PDK "
+title: "Porsche Macan Turbo  3,6 PDK"
 gruppe: Porsche
-beskrivelse: "  \n* Vi tilbyder fri kilometer i hele leasingperioden.\n\n * Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)\n\n * Vi tilbyder kaskoforsikring på alle vores biler\n\n * Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.\n\n * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.\n\n * Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.\n\n__________________________________\n\n https://www.bilbasen.dk/find-en-forhandler/bilforhandler-capleasing-aps-id11837\n\n"
-foerstegangsydelse: 126.000 Kr.
-maanedlig_ydelse: 8.300 Kr.
+beskrivelse: "21” Porschealu. fælge, røde bremsekalibre, bi-xenon forlygter m. Porsche Dynamic LightSystem (PDLS), Porsche Communication Management (PCM) inkl. Navi,navigationspakke Europa, BOSE surround system, fuldaut. Klimaanlæg,luftundervogn m. Porsche Active Suspension Management (PASM), adaptiv fartpilotm. Porsche Active Safe (PAS), LED baglygter, keyless entry, interiør pakkealuminum, el. Ratstamme m. memory, multifunktionsrat m. varme, læderkabine(Brun), 18-vejs adaptive sportsæder inkl. komfort memory pakke, ikke ryger,lev. nysynet, service ok mm. Skriv for komplet udstyrsliste.\n\n\n"
+foerstegangsydelse: 80.000 kr. eks moms Kr.
+maanedlig_ydelse: 7.184 kr. eks moms
 restvaerdi: 360.000 Kr. eks moms/afgift.
 volumen: "3,6"
 cylindre: "6"
